@@ -45,6 +45,10 @@ common:
     name: Karmada GitHub
     description: Source code repository.
     url: https://github.com/karmada-io/karmada
+  - type: Integrations
+    url: https://karmada.io/partners/
+integrations:
+  - name: Karmada
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
