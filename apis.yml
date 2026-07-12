@@ -37,6 +37,8 @@ apis:
       - Multi-Cluster
       - Scheduling
 common:
+  - type: DomainSecurity
+    url: security/karmada-domain-security.yml
   - type: Documentation
     name: Karmada Documentation
     description: Official Karmada documentation.
@@ -47,6 +49,8 @@ common:
     url: https://github.com/karmada-io/karmada
   - type: Integrations
     url: https://karmada.io/partners/
+  - url: https://karmada.io/blog/rss.xml
+    type: Blog
 integrations:
   - name: Karmada
 maintainers:
