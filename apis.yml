@@ -21,6 +21,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/karmada.png
 tags:
+  - Cloud-Native
+  - Federation
+  - Incubating
+  - Kubernetes
+  - Multi-Cluster
+  - Scheduling
+tags_raw:
   - Cloud Native
   - Federation
   - Incubating
