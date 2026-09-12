@@ -67,6 +67,8 @@ apis:
       - Multi-Cluster
       - Scheduling
 common:
+  - type: Website
+    url: https://www.karmada.io/
   - type: DomainSecurity
     url: security/karmada-domain-security.yml
   - type: Documentation
