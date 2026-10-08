@@ -70,6 +70,12 @@ apis:
       - Multi-Cluster
       - Scheduling
 common:
+  - type: Plans
+    url: plans/karmada-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/karmada-rate-limits.yml
+  - type: FinOps
+    url: finops/karmada-finops.yml
   - type: Website
     url: https://www.karmada.io/
   - type: DomainSecurity
